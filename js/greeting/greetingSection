@@ -1,9 +1,0 @@
-greeting=greeting||{};
-
-greeting.section={
-    return {
-        createOwlCarousel:{
-            $(".js-owlcarousel").owlcarousel();
-        }
-    }
-}
