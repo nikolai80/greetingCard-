@@ -57,6 +57,22 @@ greeting.section = (function () {
                  el: "#history"
                  , data: { commonGreeting:"Пусть всегда в твоей жизни будут надежные и преданные люди. Пусь будет меньше зла ( а куда же совсем без него- оно укрепляет иммунитет ;-)) ). Счастья, много новых путешествий, впечатлений и достижения поставленных целей"}
                })
+
+               var photos=new Vue({
+                 el:"#photos"
+                 , data:{
+                   photos:greeting.section.getPhotos()
+                 }
+               })
+    }
+    , getPhotos:function(){
+      var photos=[
+        {name:"",url:"images/nadia/citati_o_lete_3.jpg",isDoubleWidth: true}
+        ,{name:"",url:"images/nadia/images.jpg",isDoubleWidth: false}
+        ,{name:"",url:"images/nadia/images2.jpg",isDoubleWidth:false}
+        ,{name:"",url:"images/nadia/images.jpg",isDoubleWidth: true}
+      ];
+return photos;
     }
   }
 })();
