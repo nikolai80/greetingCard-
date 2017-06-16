@@ -1,22 +1,17 @@
 {
-  "1":{
+  "1": {
     "name": "",
-    "url": "images/nadia/citati_o_lete_3.jpg",
-    "isDoubleWidth": true
-  },
-  "2":{
-    "name": "",
-    "url": "images/nadia/images.jpg",
+    "url": "images/nadia/_MG_3307.png",
     "isDoubleWidth": false
   },
-  "3":{
+  "2": {
     "name": "",
-    "url": "images/nadia/images2.jpg",
-    "isDoubleWidth": false
-  },
-  "4":{
-    "name": "",
-    "url": "images/nadia/images.jpg",
+    "url": "images/nadia/IMG_3405.png",
     "isDoubleWidth": true
+  },
+  "3": {
+    "name": "",
+    "url": "images/nadia/IMG_3407.png",
+    "isDoubleWidth": false
   }
 }

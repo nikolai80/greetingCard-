@@ -3,19 +3,23 @@ var greeting = greeting || {};
 greeting.greetings = (function () {
   var greetingTexts = {
     husband: {
-      name: "Муж"
+      avatar:"images/husband.png"
+      ,name: "Муж"
       , text: "поздравление от "
     }
     , mom: {
-      name: "Мама"
+      avatar: "images/mom.png"
+      ,name: "Мама"
       , text: "поздравление от "
     }
     , pop: {
-      name: "Папа"
+      avatar: "images/papa.png"
+      ,name: "Папа"
       , text: "поздравление от "
     }
     , brother: {
-      name: "Брат"
+      avatar: "images/sergey.png"
+      ,name: "Брат"
       , text: "поздравление от "
     }
   };
