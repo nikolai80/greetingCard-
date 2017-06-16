@@ -1,14 +1,14 @@
 {
   "ExpandedNodes": [
     "",
-    "\\css",
     "\\css\\owl-carousel",
+    "\\data",
     "\\images",
+    "\\images\\nadia",
     "\\js",
     "\\js\\greeting",
-    "\\js\\owl-carousel",
-    "\\owlcarousel"
+    "\\js\\owl-carousel"
   ],
-  "SelectedNode": "\\images\\nadia",
+  "SelectedNode": "\\js\\greeting\\greetingPhotos.js",
   "PreviewInSolutionExplorer": false
 }

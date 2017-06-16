@@ -1,0 +1,22 @@
+{
+  "1":{
+    "name": "",
+    "url": "images/nadia/citati_o_lete_3.jpg",
+    "isDoubleWidth": true
+  },
+  "2":{
+    "name": "",
+    "url": "images/nadia/images.jpg",
+    "isDoubleWidth": false
+  },
+  "3":{
+    "name": "",
+    "url": "images/nadia/images2.jpg",
+    "isDoubleWidth": false
+  },
+  "4":{
+    "name": "",
+    "url": "images/nadia/images.jpg",
+    "isDoubleWidth": true
+  }
+}
