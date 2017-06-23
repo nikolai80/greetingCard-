@@ -15,7 +15,7 @@ greeting.greetings = (function () {
     , pop: {
       avatar: "images/papa.png"
       ,name: "Папа"
-      , text: "поздравление от "
+      , text: "Прекрасный летний день тридцатого числа струиться ласковый эфир пионов и жасмина. И в этот чудный день ты родилась.И даже боги из тебя творят себе кумира. "
     }
     , brother: {
       avatar: "images/sergey.png"
