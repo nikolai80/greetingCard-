@@ -13,5 +13,40 @@
     "name": "",
     "url": "images/nadia/IMG_3407.png",
     "isDoubleWidth": false
+  },
+  "4": {
+    "name": "",
+    "url": "images/nadia/sergey_nadia.png",
+    "isDoubleWidth": false
+  },
+  "5": {
+    "name": "",
+    "url": "images/nadia/Nadia_4.png",
+    "isDoubleWidth": false
+  },
+  "10": {
+    "name": "",
+    "url": "images/nadia/Nadia_5.png",
+    "isDoubleWidth": true
+  },
+  "7": {
+    "name": "",
+    "url": "images/nadia/nadia_mama_papa.png",
+    "isDoubleWidth": false
+  },
+  "8": {
+    "name": "",
+    "url": "images/nadia/Nadia_7.png",
+    "isDoubleWidth": false
+  },
+  "9": {
+    "name": "",
+    "url": "images/nadia/Nadia_6.png",
+    "isDoubleWidth": false
+  },
+  "6": {
+    "name": "",
+    "url": "images/nadia/nadia_nikolai.png",
+    "isDoubleWidth": false
   }
 }
