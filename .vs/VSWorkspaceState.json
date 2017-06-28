@@ -3,12 +3,11 @@
     "",
     "\\css",
     "\\data",
-    "\\images",
     "\\images\\nadia",
     "\\js",
     "\\js\\greeting",
     "\\js\\owl-carousel"
   ],
-  "SelectedNode": "\\js\\greeting\\greetingHistory.js",
+  "SelectedNode": "\\index.html",
   "PreviewInSolutionExplorer": false
 }
